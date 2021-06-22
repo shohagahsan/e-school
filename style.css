@@ -1,0 +1,72 @@
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* Header Background Color  */
+.header-bg{
+    background-color: #F0FFF0;
+}
+
+/* Favicon Logo  */
+.logo-resize{
+    width: 150px;
+}
+
+/* Navbar Section  */
+ul li{
+    padding: 5px 15px;
+}
+
+/* Header Section  */
+.header-p-text-color{
+    color: #FD511A;
+}
+
+.header-heading span{
+    color: #21B573;
+}
+
+/* Student Section  */
+ .my-card{
+    background-color: #F8FFFB;
+    border: none;
+} 
+.my-card-2{
+    background:none;
+}
+.my-card img{
+    width: 20%;
+}
+
+
+@media (max-width:768px){
+    .hero-text{
+        text-align: center;
+    }
+
+ /* Online Courses Section  */
+}.my-online-card .card{
+    border: none;
+    border-radius: 10px;
+}
+.myicon{
+    width: 25px;
+}
+.card-footer{
+    background: none;
+    border: none;
+}
+.man-image{
+    height: 125px;
+    width: 125px;
+}
+.my-line-height{
+    line-height: 12px;
+}
+
+@media (max-width:768px){
+.my-text{
+    text-align: center;
+}
+}
